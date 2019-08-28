@@ -61,7 +61,7 @@
         <OutArgument x:TypeArguments="ui:GenericValue">[initial]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="ui:GenericValue">[5]</InArgument>
+        <InArgument x:TypeArguments="ui:GenericValue">[12]</InArgument>
       </Assign.Value>
     </Assign>
     <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke GetFactorial_Recursion workflow" sap:VirtualizedContainerService.HintSize="330,87" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="GetFactorial_Recursion.xaml">
