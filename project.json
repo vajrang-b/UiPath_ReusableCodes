@@ -1,6 +1,6 @@
 {
   "name": "Factorial_VB",
-  "description": "Blank Process",
+  "description": "Find Factorial of a number using recusion",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.6.2]",
