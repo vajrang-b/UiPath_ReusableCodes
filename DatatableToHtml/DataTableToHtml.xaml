@@ -7,7 +7,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>534,2650.66666666667</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>454,337.333333333333</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>DataTableToHtml_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -67,14 +67,14 @@
       <AssemblyReference>UiPath.Word</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <TryCatch DisplayName="Try catch" sap:VirtualizedContainerService.HintSize="514,2590.66666666667" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+  <TryCatch DisplayName="Try catch" sap:VirtualizedContainerService.HintSize="434,277.333333333333" sap2010:WorkflowViewState.IdRef="TryCatch_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <TryCatch.Try>
-      <Sequence sap2010:Annotation.AnnotationText="1. Get Input as Datatable&#xD;&#xA;2. Get Css Styles as text input&#xD;&#xA;3. Create a new String Builder&#xD;&#xA;4. Start string with html tags&#xD;&#xA;5. Append Css styles if avilable&#xD;&#xA;6. Append table start tags&#xD;&#xA;7. For each column header create a th&#xD;&#xA;8. Close table head tags open tr tag&#xD;&#xA;9." DisplayName="DataTable2Html" sap:VirtualizedContainerService.HintSize="475.333333333333,2356" sap2010:WorkflowViewState.IdRef="Sequence_1">
+      <Sequence sap2010:Annotation.AnnotationText="1. Get Input as Datatable&#xA;2. Get Css Styles as text input&#xA;3. Create a new String Builder&#xA;4. Start string with html tags&#xA;5. Append Css styles if avilable&#xA;6. Append table start tags&#xA;7. For each column header create a th&#xA;8. Close table head tags open tr tag&#xA;9. For each row in datatable create html table row&#xA;10. Close table and html tags&#xA;11. Send builder as out Arguement " DisplayName="DataTable2Html" sap:VirtualizedContainerService.HintSize="200,348" sap2010:WorkflowViewState.IdRef="Sequence_1">
         <Sequence.Variables>
           <Variable x:TypeArguments="st:StringBuilder" Name="builder" />
           <Variable x:TypeArguments="sd:DataTable" Name="dt_InputDatatable" />
@@ -82,11 +82,12 @@
         </Sequence.Variables>
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <Assign DisplayName="1. Set dt_InputDatatable" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_17">
+        <Assign DisplayName="1. Set dt_InputDatatable" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_17">
           <Assign.To>
             <OutArgument x:TypeArguments="sd:DataTable">[dt_InputDatatable]</OutArgument>
           </Assign.To>
@@ -94,7 +95,7 @@
             <InArgument x:TypeArguments="sd:DataTable">[in_Datatable]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="2. Set str_CssStyles" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_18">
+        <Assign DisplayName="2. Set str_CssStyles" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_18">
           <Assign.To>
             <OutArgument x:TypeArguments="x:String">[str_CssStyles]</OutArgument>
           </Assign.To>
@@ -102,7 +103,7 @@
             <InArgument x:TypeArguments="x:String">[in_Styles]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="3. Set string builder" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_1">
+        <Assign DisplayName="3. Set string builder" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_1">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -110,7 +111,7 @@
             <InArgument x:TypeArguments="st:StringBuilder">[new StringBuilder]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_16">
+        <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_16">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -118,7 +119,7 @@
             <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;html&gt;&lt;head&gt;")]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="Append style " sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_11">
+        <Assign DisplayName="Append style " sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_11">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -126,7 +127,7 @@
             <InArgument x:TypeArguments="st:StringBuilder">[If(string.IsNullOrWhiteSpace(str_CssStyles), builder, builder.Append(string.Format("&lt;style&gt;{0}&lt;/style&gt;", str_CssStyles)))]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_2">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -134,19 +135,19 @@
             <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;/head&gt;&lt;body&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;")]</InArgument>
           </Assign.Value>
         </Assign>
-        <ui:ForEach x:TypeArguments="sd:DataColumn" CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="7. For each column header create a th tags" DisplayName="7. For each column header create a th" sap:VirtualizedContainerService.HintSize="433.333333333333,318.666666666667" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[dt_InputDatatable.Columns]">
+        <ui:ForEach x:TypeArguments="sd:DataColumn" CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="7. For each column header create a th tags" DisplayName="7. For each column header create a th" sap:VirtualizedContainerService.HintSize="433.333333333333,321.333333333333" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[dt_InputDatatable.Columns]">
           <ui:ForEach.Body>
             <ActivityAction x:TypeArguments="sd:DataColumn">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="sd:DataColumn" Name="column" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="304,153.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_4">
+              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="304,154" sap2010:WorkflowViewState.IdRef="Sequence_4">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="262,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_12">
+                <Assign DisplayName="Append table start" sap:VirtualizedContainerService.HintSize="262,62" sap2010:WorkflowViewState.IdRef="Assign_12">
                   <Assign.To>
                     <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
                   </Assign.To>
@@ -160,10 +161,12 @@
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
         </ui:ForEach>
-        <Assign DisplayName="Append table header end" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_5">
+        <Assign DisplayName="Append table header end" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_5">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -171,19 +174,19 @@
             <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;/tr&gt;&lt;/thead&gt;")]</InArgument>
           </Assign.Value>
         </Assign>
-        <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[dt_InputDatatable]" DisplayName="For each row" sap:VirtualizedContainerService.HintSize="433.333333333333,736.666666666667" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
+        <ui:ForEachRow CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="For each row in datatable create html table row" DataTable="[dt_InputDatatable]" DisplayName="For each row create html table row" sap:VirtualizedContainerService.HintSize="433.333333333333,770" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
           <ui:ForEachRow.Body>
             <ActivityAction x:TypeArguments="sd:DataRow">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="sd:DataRow" Name="row" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="382.666666666667,585.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_6">
+              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="382.666666666667,588.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_6">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <Assign DisplayName="Append table row start" sap:VirtualizedContainerService.HintSize="340.666666666667,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_13">
+                <Assign DisplayName="Append table row start" sap:VirtualizedContainerService.HintSize="340.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_13">
                   <Assign.To>
                     <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
                   </Assign.To>
@@ -191,19 +194,19 @@
                     <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;tr&gt;")]</InArgument>
                   </Assign.Value>
                 </Assign>
-                <ui:ForEach x:TypeArguments="sd:DataColumn" CurrentIndex="{x:Null}" DisplayName="For each" sap:VirtualizedContainerService.HintSize="340.666666666667,290.666666666667" sap2010:WorkflowViewState.IdRef="ForEach`1_5" Values="[dt_InputDatatable.Columns]">
+                <ui:ForEach x:TypeArguments="sd:DataColumn" CurrentIndex="{x:Null}" DisplayName="For each" sap:VirtualizedContainerService.HintSize="340.666666666667,292.666666666667" sap2010:WorkflowViewState.IdRef="ForEach`1_5" Values="[dt_InputDatatable.Columns]">
                   <ui:ForEach.Body>
                     <ActivityAction x:TypeArguments="sd:DataColumn">
                       <ActivityAction.Argument>
                         <DelegateInArgument x:TypeArguments="sd:DataColumn" Name="column" />
                       </ActivityAction.Argument>
-                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="304,153.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="304,154" sap2010:WorkflowViewState.IdRef="Sequence_5">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="262,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_15">
+                        <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="262,62" sap2010:WorkflowViewState.IdRef="Assign_15">
                           <Assign.To>
                             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
                           </Assign.To>
@@ -215,7 +218,7 @@
                     </ActivityAction>
                   </ui:ForEach.Body>
                 </ui:ForEach>
-                <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="340.666666666667,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_14">
+                <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="340.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_14">
                   <Assign.To>
                     <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
                   </Assign.To>
@@ -226,8 +229,13 @@
               </Sequence>
             </ActivityAction>
           </ui:ForEachRow.Body>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
         </ui:ForEachRow>
-        <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_6">
+        <Assign DisplayName="Append table row end" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_6">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -235,7 +243,7 @@
             <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;/tr&gt;")]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="Append table end" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_3">
+        <Assign DisplayName="Append table end" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_3">
           <Assign.To>
             <OutArgument x:TypeArguments="st:StringBuilder">[builder]</OutArgument>
           </Assign.To>
@@ -243,7 +251,7 @@
             <InArgument x:TypeArguments="st:StringBuilder">[builder.Append("&lt;/table&gt;")]</InArgument>
           </Assign.Value>
         </Assign>
-        <Assign DisplayName="Set output" sap:VirtualizedContainerService.HintSize="433.333333333333,61.3333333333333" sap2010:WorkflowViewState.IdRef="Assign_10">
+        <Assign DisplayName="Set output" sap:VirtualizedContainerService.HintSize="433.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_10">
           <Assign.To>
             <OutArgument x:TypeArguments="x:String">[out_HtmlString]</OutArgument>
           </Assign.To>
@@ -254,10 +262,10 @@
       </Sequence>
     </TryCatch.Try>
     <TryCatch.Catches>
-      <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="480,21.3333333333333" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+      <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="400,105.333333333333" sap2010:WorkflowViewState.IdRef="Catch`1_1">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>

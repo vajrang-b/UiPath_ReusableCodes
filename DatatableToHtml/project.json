@@ -1,7 +1,7 @@
 {
   "name": "DatatableToHtml",
   "description": "DataTable to Html",
-  "main": "Main.xaml",
+  "main": "InvokeD2HFile.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.1-beta.557523]",
     "UiPath.Mail.Activities": "[1.7.1-beta.557462]",
@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }
