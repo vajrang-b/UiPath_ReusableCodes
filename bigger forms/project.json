@@ -1,0 +1,39 @@
+{
+  "name": "bigger forms",
+  "description": "Blank Process",
+  "main": "FormSequence.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.8.3-beta.890325]",
+    "UiPath.Form.Activities": "[1.1.1]",
+    "UiPath.FormActivityLibrary": "[1.1.1]",
+    "UiPath.FormActivityLibrary.Contracts": "[1.1.1]",
+    "UiPath.Mail.Activities": "[1.8.3-beta.889642]",
+    "UiPath.System.Activities": "[20.4.0-beta.889657]",
+    "UiPath.UIAutomation.Activities": "[20.4.0-beta.891721]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
