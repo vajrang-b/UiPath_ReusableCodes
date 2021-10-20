@@ -1,0 +1,111 @@
+
+*.cache
+.local/*
+AccorsiFilesDownload/*
+actions activities/*
+AddMembers toTeams/*
+Audrino/*
+AutomationChallenge/*
+Camera Modules/*
+CodeGladiatorsHackathon/*
+COPYPASTE/*
+CSV Amount filter/*
+CreateRichHTMLEmail_Citizen/*
+CustomActivities/*
+DHPVirginia/*
+DownloadPdfsFromAccelirate/*
+ExtractFundoodata/*
+ExtractSearches/*
+FillVamTimesheet/*
+Forms_Tutorial/*
+Games/DinoGame/*
+RoboticEnterpriseFramework_Datarow/*
+RPA-Challange-Shortest-Path-master/*
+SendBulkEmails_WithTracker/*
+SOAPRequests/*
+SpeechToText_GenerateCovidReport/*
+StringSplitProject/*
+Tic tak toe/*
+TimeBoundProcess/*
+TriggerBasedAttendedAutomation Google Search/*
+UiPath Forms Trainings/*
+UiPath Level 3/*
+UiPath Made Easy/*
+UiPath training Day1/*
+*VamDemos*
+Youtube Project/*
+Webinar/*
+UipathStorage/*
+UiPath Interview/*
+Uipath forms 1-1-0/*
+SpeechToText_PlayDinoGame/*
+SumOfNaturalNumbers_Resursion/*
+RoboticEnterpriseFramework_Files/*
+RemoveFacebookadds/*
+Python/*
+PdfToImage/*
+One Minute Explaination/*
+ObjectRepository/*
+NewBlankTaskTemplate/*
+LiveStream3/*
+Linkedin/*
+InjectJs/*
+GSuite/*
+GetDeviceLocation/*
+Generate JSON Web Tokens/*
+FormToQueueItem-1.0.2/*
+FormsDropdown/*
+**/.settings
+**/.local
+**/.objects
+**/.screenshots/
+GetCurrentDateEmail/*
+JsonFilter/*
+DeleteOutlookContacts/*
+ChatBot_GetEmailCount/*
+Covid19Chatbot/*
+CreateRichHTMLEmail/*
+NewBlankTask/*
+Azure/*
+2019-10-24_celent_webinar_1259946.pptx
+**Custom Input Form/*
+*.zip
+**/Forms_Tutorial
+**~*
+**/RoboticEnterpriseFramework_Dummy
+README-uipath chatbot.pdf
+**/Resumes
+**/SpeechToText
+**/Word Search Challenge
+Unique DataTable Column Items/.tmh/config.json
+YoutubeData.png
+*.mp3
+**/MobileTestingProject
+**/LinkedinMessageReply
+**/Certifications
+**/BlankProcess_ SurajDatarow
+**/bigger forms
+**/SpeechToText/*
+**/UnsubscribeEmails
+UiPath Test/*
+FormsDropdown - Copy/*
+BlankProcess1/*
+NewBlankTaskTemplate1/*
+**/.settings
+BlankProcess/*
+bigger forms/*
+audio forms/*
+bigger forms/FormSequence -7.xaml
+DataTableToHtml.xaml
+Forms_Tutorial/*
+hyperhack/*
+**/SpeechToText
+scrapeCertifications/*
+PresentationBot/*
+OrchestratorWebhookTester/*
+OrchestrationProcess/*
+Feedback_for_UiPath_forms_(2).docx
+Forms_Tutorial/*
+Forms_Tutorial/*
+SendBulkEmails_WithTracker/*
+Unique DataTable Column Items/*
