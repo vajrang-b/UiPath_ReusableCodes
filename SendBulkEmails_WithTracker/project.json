@@ -6,6 +6,7 @@
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
     "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.0.0]",
     "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
   "webServices": [],
