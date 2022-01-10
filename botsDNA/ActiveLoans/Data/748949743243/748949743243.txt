@@ -1,0 +1,11 @@
+Account Number: 748949743243
+
+Bank: SBI
+
+Branch: MEDCHAL
+
+Loan Taken On: 28-DEC-2007
+
+Amount: 2800000
+
+EMI(month): 17500

@@ -1,0 +1,11 @@
+Account Number:536728992726
+
+Bank: ICICI
+
+Branch: MOHAN NAGAR
+
+Loan Taken On: 15-JUNE-2009
+
+Amount: 2700000
+
+EMI(month): 7500

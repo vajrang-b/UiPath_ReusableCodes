@@ -1,0 +1,11 @@
+Account Number: 123467782922
+
+Bank: HDFC
+
+Branch: SaroorNagar
+
+Loan Taken On: 15-JUL-2015
+
+Amount: 1000000
+
+EMI(month): 5500

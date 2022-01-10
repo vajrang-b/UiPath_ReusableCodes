@@ -1,0 +1,11 @@
+Account Number: 591165419151
+
+Bank: ANDRA BANK
+
+Branch: NADYALA
+
+Loan Taken On: 23-SEP-2007
+
+Amount: 1650000
+
+EMI(month): 18237

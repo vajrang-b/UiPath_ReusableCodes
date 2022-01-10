@@ -1,0 +1,11 @@
+Account Number: 431548713413
+
+Bank: ANDRA BANK
+
+Branch: KERELA
+
+Loan Taken On: 22-JUL-2002
+
+Amount: 1700000
+
+EMI(month): 25035

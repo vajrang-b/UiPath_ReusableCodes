@@ -1,0 +1,11 @@
+Account Number: 745289534392
+
+Bank: LAXMI NIVAS BANK
+
+Branch: SRISAILAM
+
+Loan Taken On: 17-MAY-2010
+
+Amount: 3567000
+
+EMI(month): 32547

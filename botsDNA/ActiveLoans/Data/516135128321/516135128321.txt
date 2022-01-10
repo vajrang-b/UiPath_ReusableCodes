@@ -1,0 +1,11 @@
+Account Number: 516135128321
+
+Bank: UCO BANK
+
+Branch: VANASTHALIPURAM
+
+Loan Taken On: 30-MAY-2001
+
+Amount: 4100000
+
+EMI(month): 22167

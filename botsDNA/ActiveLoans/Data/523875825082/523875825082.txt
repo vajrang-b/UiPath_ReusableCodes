@@ -1,0 +1,11 @@
+Account Number: 523875825082
+
+Bank: BANK OF BARODA
+
+Branch: ANATHAPURAM
+
+Loan Taken On: 30-OCT-2005
+
+Amount: 4800000
+
+EMI(month): 34853

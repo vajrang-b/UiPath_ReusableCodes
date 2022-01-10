@@ -1,0 +1,11 @@
+Account Number: 157613613135
+
+Bank: CANARA BANK
+
+Branch: HAYATHNAGAR
+
+Loan Taken On: 04-MAR-2003
+
+Amount: 4500000
+
+EMI(month): 44500

@@ -1,0 +1,11 @@
+Account Number: 276895644471
+
+Bank: BANDHANBANK
+
+Branch: S.N.PADU
+
+Loan Taken On: 31-NOV-2008
+
+Amount: 3500000
+
+EMI(month): 9578

@@ -1,0 +1,11 @@
+Account Number: 532854145014
+
+Bank: SBI
+
+Branch: PODILI
+
+Loan Taken On: 24-SEP-2005
+
+Amount: 2700000
+
+EMI(month): 17534

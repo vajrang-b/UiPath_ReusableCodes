@@ -1,0 +1,11 @@
+Account Number: 723684516294
+
+Bank: CANARA BANK
+
+Branch: HIMAYATSAGAR
+
+Loan Taken On: 21-JAN-2006
+
+Amount: 3500000
+
+EMI(month): 13545

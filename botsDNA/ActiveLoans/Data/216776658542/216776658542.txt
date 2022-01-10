@@ -1,0 +1,11 @@
+Account Number: 216776658542
+
+Bank: SYDICATE BANK
+
+Branch: NALAGODA
+
+Loan Taken On: 04-July-2002
+
+Amount: 3700000
+
+EMI(month): 24525

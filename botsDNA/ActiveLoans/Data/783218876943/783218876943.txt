@@ -1,0 +1,11 @@
+Account Number: 783218876943
+
+Bank: AXIS BANK
+
+Branch: YADALA TENALE
+
+Loan Taken On: 05-FEB-2007
+
+Amount: 3400000
+
+EMI(month): 34500

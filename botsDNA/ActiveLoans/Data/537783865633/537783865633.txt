@@ -1,0 +1,11 @@
+Account Number: 537783865633
+
+Bank: FEDRAL BANK OF INDIA
+
+Branch: MADDIPADU
+
+Loan Taken On: 23-JUN-2007
+
+Amount: 3700000
+
+EMI(month): 28667

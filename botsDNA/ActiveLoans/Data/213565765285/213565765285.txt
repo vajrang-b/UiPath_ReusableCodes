@@ -1,0 +1,11 @@
+Account Number: 213565765285
+
+Bank: IDBI
+
+Branch: MADDIPADU
+
+Loan Taken On: 22-APL-2006
+
+Amount: 3500000
+
+EMI(month): 17895

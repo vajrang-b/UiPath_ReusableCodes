@@ -1,0 +1,11 @@
+Account Number: 786249541514
+
+Bank: ICICI BANK
+
+Branch: MIRAYALAGUDA
+
+Loan Taken On: 17-AUG-2009
+
+Amount: 2500000
+
+EMI(month): 27154

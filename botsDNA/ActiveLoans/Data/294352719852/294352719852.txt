@@ -1,0 +1,11 @@
+Account Number: 294352719852
+
+Bank: CENTRAL BANK OF INDIA
+
+Branch: SIDDIPET
+
+Loan Taken On: 13-FEB-2005
+
+Amount: 1900000
+
+EMI(month): 14568

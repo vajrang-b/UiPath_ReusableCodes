@@ -1,0 +1,11 @@
+Account Number: 735696573431
+
+Bank: SBI
+
+Branch: KAKANI
+
+Loan Taken On: 29-DEC-2003
+
+Amount: 455000
+
+EMI(month): 41451

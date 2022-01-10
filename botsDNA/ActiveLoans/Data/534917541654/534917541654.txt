@@ -1,0 +1,12 @@
+
+Account Number: 534917541654
+
+Bank: ICICI BANK
+
+Branch: AMARAVATHI
+
+Loan Taken On: 14-MAR-2005
+
+Amount: 3000000
+
+EMI(month): 27831

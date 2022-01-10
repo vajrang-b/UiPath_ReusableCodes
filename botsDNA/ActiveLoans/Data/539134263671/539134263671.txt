@@ -1,0 +1,11 @@
+Account Number: 539134263671
+
+Bank: BANK OF BARODA
+
+Branch: KARIMNAGAR
+
+Loan Taken On: 01-OCT-2006
+
+Amount: 2700000
+
+EMI(month): 12400

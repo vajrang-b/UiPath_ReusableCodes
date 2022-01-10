@@ -1,0 +1,11 @@
+Account Number: 226945727686
+
+Bank: MAHARASTARA BANK
+
+Branch: MAHARASTARA
+
+Loan Taken On: 16-JAN-2008
+
+Amount: 2160000
+
+EMI(month): 13500

@@ -1,0 +1,11 @@
+Account Number: 121010561332
+
+Bank: ANDRA BANK
+
+Branch: TANGUTUR
+
+Loan Taken On: 05-MAR-2007
+
+Amount: 2750000
+
+EMI(month): 14578

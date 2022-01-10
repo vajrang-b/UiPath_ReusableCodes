@@ -1,0 +1,11 @@
+Account Number: 342654494394
+
+Bank: SYDICATE BANK
+
+Branch: MEDAK
+
+Loan Taken On: 04-OCT-2003
+
+Amount: 3250000
+
+EMI(month): 13721

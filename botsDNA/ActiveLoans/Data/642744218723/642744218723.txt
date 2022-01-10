@@ -1,0 +1,11 @@
+Account Number: 642744218723
+
+Bank: AXIS BANK
+
+Branch: RAMAKRISHNAPURAM
+
+Loan Taken On: 5-AUG-2001
+
+Amount: 3000000
+
+EMI(month): 12453

@@ -1,0 +1,11 @@
+Account Number: 421745839721
+
+Bank: BARODA GUJARAT GRAMIN BANK
+
+Branch: GUJARAT
+
+Loan Taken On: 22-DEC-2005
+
+Amount: 3700000
+
+EMI(month): 21821

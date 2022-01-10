@@ -1,0 +1,11 @@
+Account Number: 537298446527
+
+Bank: SYDICATE BANK
+
+Branch: BADRACHALAM
+
+Loan Taken On: 23-SEP-2008
+
+Amount: 3500000
+
+EMI(month): 34564

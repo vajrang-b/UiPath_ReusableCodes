@@ -1,0 +1,11 @@
+Account Number: 875413087541
+
+Bank: UNION BANK OF INDIA
+
+Branch: NAGARJUNASAGAR
+
+Loan Taken On: 28-FEB-2005
+
+Amount: 5000000
+
+EMI(month): 41542

@@ -1,0 +1,11 @@
+Account Number: 475141512546
+
+Bank: SYDICATE BANK
+
+Branch: DARSI
+
+Loan Taken On: 14-DEC-2001
+
+Amount: 3800000
+
+EMI(month): 34574

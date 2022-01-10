@@ -1,0 +1,11 @@
+Account Number: 438295417342
+
+Bank: IDBI
+
+Branch: NARSARAOPETA
+
+Loan Taken On: 27-DEC-2008
+
+Amount: 4300000
+
+EMI(month): 29567

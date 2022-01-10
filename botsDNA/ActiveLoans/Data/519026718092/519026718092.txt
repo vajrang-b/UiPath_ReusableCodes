@@ -1,0 +1,11 @@
+Account Number: 519026718092
+
+Bank: KOTAK BANK
+
+Branch: KANDUKUR
+
+Loan Taken On: 13-OCT-2009
+
+Amount: 1400000
+
+EMI(month): 4576

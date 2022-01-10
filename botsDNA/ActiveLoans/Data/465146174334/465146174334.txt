@@ -1,0 +1,11 @@
+Account Number: 465146174334
+
+Bank: AXIS BANK
+
+Branch: MANGAMOOR
+
+Loan Taken On: 29-MAR-2010
+
+Amount: 3000000
+
+EMI(month): 34564

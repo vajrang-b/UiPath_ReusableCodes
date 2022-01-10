@@ -1,0 +1,11 @@
+Account Number: 534654260264
+
+Bank: INDIAN BANK
+
+Branch: SERESELLA
+
+Loan Taken On: 21-JAN-2003
+
+Amount: 2576000
+
+EMI(month): 25450

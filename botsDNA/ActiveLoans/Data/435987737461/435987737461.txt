@@ -1,0 +1,11 @@
+Account Number: 435987737461
+
+Bank: UCO BANK 
+
+Branch: KARNATAKA 
+
+Loan Taken On: 29-JUN-2010
+
+Amount: 2900000
+
+EMI(month): 12831

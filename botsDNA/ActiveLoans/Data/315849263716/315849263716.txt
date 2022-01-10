@@ -1,0 +1,11 @@
+Account Number: 315849263716
+
+Bank: INDIAN BANK
+
+Branch: CHAITANYAPURI
+
+Loan Taken On: 28-FEB-2010
+
+Amount: 2950000
+
+EMI(month): 24659

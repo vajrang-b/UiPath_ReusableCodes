@@ -1,0 +1,11 @@
+Account Number: 638743563762
+
+Bank: ANDRA BANK
+
+Branch: PIDDATHALAPUDI
+
+Loan Taken On: 26-JUN-2005
+
+Amount: 4530000
+
+EMI(month): 33587

@@ -1,0 +1,11 @@
+Account Number: 237983264762
+
+Bank: TELANGANA GRAMIN BANK
+
+Branch: KARIMNAGAR
+
+Loan Taken On: 17-OCT-2009
+
+Amount: 210000
+
+EMI(month): 17500

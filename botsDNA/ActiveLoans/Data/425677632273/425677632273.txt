@@ -1,0 +1,11 @@
+Account Number: 425677632273
+
+Bank: KOTAK BANK
+
+Branch:HAYATHNAGAR 
+
+Loan Taken On: 25-OCT-2010
+
+Amount: 4950000
+
+EMI(month): 37561

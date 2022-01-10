@@ -1,0 +1,11 @@
+Account Number: 946327836673
+
+Bank: ICICI
+
+Branch: VIRATNAGAR
+
+Loan Taken On: 16-July-2008
+
+Amount: 4500000
+
+EMI(month): 10000

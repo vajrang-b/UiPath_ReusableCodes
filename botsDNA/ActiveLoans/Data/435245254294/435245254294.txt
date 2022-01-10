@@ -1,0 +1,11 @@
+Account Number: 435245254294
+
+Bank: CANARA BANK
+
+Branch: SRISAILAM
+
+Loan Taken On: 28-APL-2005
+
+Amount: 4800000
+
+EMI(month): 34561

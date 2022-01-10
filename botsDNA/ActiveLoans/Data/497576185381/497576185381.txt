@@ -1,0 +1,11 @@
+Account Number: 497576185381
+
+Bank: BANK OF BARODA
+
+Branch: LB NAGAR
+
+Loan Taken On: 17-AUG-2008
+
+Amount:2565000
+
+EMI(month): 21500

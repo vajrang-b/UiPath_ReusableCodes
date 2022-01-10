@@ -1,0 +1,11 @@
+Account Number: 212148294446
+
+Bank: UNION BANK OF INDIA
+
+Branch: VISHAKAPATNAM
+
+Loan Taken On: 27-FEB-2004
+
+Amount: 2100000
+
+EMI(month): 14542

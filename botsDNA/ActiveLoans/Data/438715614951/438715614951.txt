@@ -1,0 +1,11 @@
+Account Number: 438715614951
+
+Bank: UCO BANK
+
+Branch: THIRUPATHI
+
+Loan Taken On: 04-July-2003
+
+Amount: 3200000
+
+EMI(month): 24437

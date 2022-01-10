@@ -1,0 +1,11 @@
+Account Number: 427812469345
+
+Bank: SBI
+
+Branch: BANDLAGUDA
+
+Loan Taken On: 17-DEC-2008
+
+Amount: 4900000
+
+EMI(month): 34542

@@ -1,0 +1,11 @@
+Account Number: 627672554853
+
+Bank: SYDICATE BANK
+
+Branch: CHILAKALURIPETA
+
+Loan Taken On: 30-DEC-2005
+
+Amount: 2500000
+
+EMI(month): 24567

@@ -1,0 +1,11 @@
+Account Number: 893731935652
+
+Bank: CENTRAL BANK OF BANK
+
+Branch: AMARAVATHI
+
+Loan Taken On: 24-July-2007
+
+Amount: 600000
+
+EMI(month): 7565

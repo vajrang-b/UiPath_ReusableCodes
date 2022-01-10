@@ -1,0 +1,11 @@
+Account Number: 637832912647
+
+Bank: CANARA BANK
+
+Branch: MADURAI
+
+Loan Taken On: 26-DEC-2004
+
+Amount: 4850000
+
+EMI(month): 25652

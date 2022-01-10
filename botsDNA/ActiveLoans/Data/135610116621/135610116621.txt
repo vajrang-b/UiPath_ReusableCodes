@@ -1,0 +1,11 @@
+Account Number: 135610116621
+
+Bank: CENTRAL BANK OF INDIA
+
+Branch: PODILI
+
+Loan Taken On: 31-JAN-2008
+
+Amount: 2578622
+
+EMI(month): 39531

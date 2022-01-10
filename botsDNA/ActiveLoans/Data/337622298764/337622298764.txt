@@ -1,0 +1,11 @@
+Account Number:337622298764
+
+Bank: UNION BANK OF INDIA
+
+Branch: BANDLAGUDA
+
+Loan Taken On: 17-FEB-2007
+
+Amount: 1700000
+
+EMI(month): 8500

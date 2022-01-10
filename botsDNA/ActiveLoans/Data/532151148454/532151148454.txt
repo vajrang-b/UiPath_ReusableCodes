@@ -1,0 +1,11 @@
+Account Number: 532151148454
+
+Bank: KERALA GRAMIN BANK
+
+Branch: KERALA
+
+Loan Taken On: 25-FEB-2007
+
+Amount: 4130000
+
+EMI(month): 41535

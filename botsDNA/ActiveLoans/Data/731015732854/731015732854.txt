@@ -1,0 +1,11 @@
+Account Number: 731015732854
+
+Bank: AXIS BANK
+
+Branch: ADDAKI 
+
+Loan Taken On: 21-MAY-2004
+
+Amount: 4710000
+
+EMI(month): 25321

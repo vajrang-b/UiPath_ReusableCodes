@@ -1,0 +1,11 @@
+Account Number: 101000829823
+
+Bank: KOTAK BANK
+
+Branch: SIGARAYAKONDA
+
+Loan Taken On: 28-SEP-2003
+
+Amount: 3800000
+
+EMI(month): 15864

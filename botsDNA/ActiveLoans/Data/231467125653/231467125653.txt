@@ -1,0 +1,11 @@
+Account Number: 231467125653
+
+Bank: HDFC
+
+Branch: PERNAMETTA
+
+Loan Taken On: 29-AUG-2010
+
+Amount: 300000
+
+EMI(month): 24500

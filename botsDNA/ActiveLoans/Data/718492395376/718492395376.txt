@@ -1,0 +1,11 @@
+Account Number: 718492395376
+
+Bank: PUNJAB GRAMIN BANK
+
+Branch: PUNJAB
+
+Loan Taken On: 26-APL-2001
+
+Amount: 3175000
+
+EMI(month): 44374

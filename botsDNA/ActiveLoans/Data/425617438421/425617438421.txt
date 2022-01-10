@@ -1,0 +1,11 @@
+Account Number: 425617438421
+
+Bank: ANDRA BANK
+
+Branch: KOTHAGUDEM
+
+Loan Taken On: 01-SEP-2010
+
+Amount: 3900000
+
+EMI(month): 34436

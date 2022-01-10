@@ -1,0 +1,11 @@
+Account Number: 432164969213
+
+Bank: CANARA BANK
+
+Branch: KAKINADA
+
+Loan Taken On: 25-JUN-2007
+
+Amount: 4350000
+
+EMI(month): 34576

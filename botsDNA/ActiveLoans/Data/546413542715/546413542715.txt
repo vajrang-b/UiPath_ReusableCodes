@@ -1,0 +1,11 @@
+Account Number: 546413542715
+
+Bank: SBI
+
+Branch: GUNTHAKAL
+
+Loan Taken On: 28-NOV-2008
+
+Amount: 3500000
+
+EMI(month): 26459

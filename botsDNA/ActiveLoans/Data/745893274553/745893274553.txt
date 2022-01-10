@@ -1,0 +1,11 @@
+Account Number: 745893274553
+
+Bank: KOTAK BANK
+
+Branch: BELGAM
+
+Loan Taken On: 30-JUL-2007
+
+Amount: 1900000
+
+EMI(month): 17353

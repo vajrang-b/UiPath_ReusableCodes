@@ -1,0 +1,11 @@
+Account Number: 753254345132
+
+Bank: CANARA BANK
+
+Branch: MAIN BRANCH KURNOOL
+
+Loan Taken On: 31-SEP-2005
+
+Amount: 4950000
+
+EMI(month): 47512

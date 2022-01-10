@@ -1,0 +1,11 @@
+Account Number: 653249765114
+
+Bank: KOTAK BANK
+
+Branch: WARANGAL
+
+Loan Taken On: 17-SEP-2003
+
+Amount: 3450000
+
+EMI(month): 41551

@@ -1,0 +1,11 @@
+Account Number: 321569321673
+
+Bank: ICICI BANK
+
+Branch: DILSHUKNAGAR
+
+Loan Taken On: 10-JUN-2004
+
+Amount: 1000000
+
+EMI(month): 8951

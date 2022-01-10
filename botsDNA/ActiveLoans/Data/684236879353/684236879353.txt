@@ -1,0 +1,11 @@
+Account Number: 684236879353
+
+Bank: KOTAK BANK
+
+Branch: GUDURU
+
+Loan Taken On: 26-JUL-2006
+
+Amount: 2800000
+
+EMI(month): 21654

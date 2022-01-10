@@ -1,0 +1,11 @@
+Account Number: 514057410854
+
+Bank: KOTAK BANK
+
+Branch: MANIPURAM
+
+Loan Taken On: 24-DEC-2009
+
+Amount: 2700000
+
+EMI(month): 14574

@@ -1,0 +1,11 @@
+Account Number: 673248549524
+
+Bank: TELANGANA GRAMIN BANK
+
+Branch: NALAGODA
+
+Loan Taken On: 25-APL-2001
+
+Amount: 2900000
+
+EMI(month): 24578

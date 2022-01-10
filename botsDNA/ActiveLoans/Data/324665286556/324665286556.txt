@@ -1,0 +1,11 @@
+Account Number: 324665286556
+
+Bank: CANARA BANK
+
+Branch:SANATHANUTHALAPADU
+
+Loan Taken On: 12-MAR-2001
+
+Amount: 2750000
+
+EMI(month): 15641

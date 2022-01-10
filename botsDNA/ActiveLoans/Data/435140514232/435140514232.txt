@@ -1,0 +1,11 @@
+Account Number: 435140514232
+
+Bank: CENTRAL BANK OF INDIA
+
+Branch: S.R.Nagar
+
+Loan Taken On: 04-July-2002
+
+Amount: 1500000
+
+EMI(month): 4500
